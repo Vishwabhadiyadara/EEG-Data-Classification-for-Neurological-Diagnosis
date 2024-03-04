@@ -6,11 +6,9 @@ This project aims to enhance the diagnostic accuracy for neurological disorders,
 
 ## Graphs
 
-### Model Accuracy Over Epochs
-![Model Accuracy Over Epochs](https://github.com/[YourUsername]/EEG-Classification-Project/assets/model_accuracy.png)
+### Model Accuracy Over Epochs and Model Loss Over Epochs
 
-### Model Loss Over Epochs
-![Model Loss Over Epochs](https://github.com/[YourUsername]/EEG-Classification-Project/assets/model_loss.png)
+![EEG_report](https://github.com/Vishwabhadiyadara/EEG-Data-Classification-for-Neurological-Diagnosis/assets/110348340/840ddf8c-e9b4-421a-b03b-890bc2d0ecc8)
 
 ## Goals
 
