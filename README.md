@@ -15,6 +15,7 @@ This project aims to enhance the diagnostic accuracy for neurological disorders,
 - Develop a highly accurate EEG data classification model for epilepsy diagnosis.
 - Enhance early detection of epilepsy through automated EEG analysis.
 - Optimize treatment strategies by providing precise diagnostic information.
+- Achieving 88.35% accuracy through strategic data preprocessing and LSTM model application.
 
 ## Technologies Used
 
